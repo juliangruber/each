@@ -6,7 +6,7 @@
     "type": "component/type"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": ">=3.2.0",
     "should": "*"
   },
   "component": {
